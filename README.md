@@ -1,0 +1,2 @@
+# KoolBotJSapp
+Fixed Kool Bot.
